@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\adali\source\repos\final\final\source.cpp(53): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(82): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(110): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(122): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(123): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(155): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(156): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(157): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(169): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(173): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(189): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(198): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(199): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(214): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(215): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(226): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(227): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(242): warning C4018: '<': no coinciden signed/unsigned
+c:\users\adali\source\repos\final\final\source.cpp(244): warning C4018: '<': no coinciden signed/unsigned
+  Final.vcxproj -> C:\Users\adali\source\repos\Final\Debug\Final.exe

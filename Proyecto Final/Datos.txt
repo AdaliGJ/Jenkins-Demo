@@ -1,0 +1,15 @@
+Artículos comprados en conjunto
+-Articulos 1, 2, 3, 4. Veces comprados en conjunto:  2
+-Articulos 1, 2, 4. Veces comprados en conjunto:  2
+-Articulos 1, 3, 4. Veces comprados en conjunto:  2
+-Articulos 2, 3, 4. Veces comprados en conjunto:  2
+-Articulos 1, 2, 3. Veces comprados en conjunto:  2
+-Articulos 3, 4. Veces comprados en conjunto:  2
+-Articulos 1, 2. Veces comprados en conjunto:  2
+-Articulos 1, 4. Veces comprados en conjunto:  2
+-Articulos 2, 3. Veces comprados en conjunto:  2
+-Articulos 2, 4. Veces comprados en conjunto:  2
+-Articulos 1, 3. Veces comprados en conjunto:  2
+
+Datos actualizados el: 11/05/2020
+-------------------------------------------------------------

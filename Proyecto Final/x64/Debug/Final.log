@@ -1,0 +1,5 @@
+﻿  Final.cpp
+c:\users\adali\source\repos\final\final\final.cpp(32): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\adali\source\repos\final\final\final.cpp(68): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\adali\source\repos\final\final\final.cpp(284): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Final.vcxproj -> C:\Users\adali\source\repos\Final\x64\Debug\Final.exe
